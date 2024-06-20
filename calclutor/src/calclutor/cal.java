@@ -20,7 +20,8 @@ public class cal {
 	}
 	
 	public static void main(String[] args) {
-		JOptionPane.showInputDialog(add(1,10,1));
+		//JOptionPane.showInputDialog(add(1,10,1));
+		add(10,2,1);
 	}
 
 }
